@@ -1,0 +1,11 @@
+.header{
+    height:53px;
+    padding: 10px 0;
+    background-color: aquamarine;
+}
+.navlink{
+    background-color: cadetblue;
+}
+.navlink a{
+    color: #ffffff;
+}
